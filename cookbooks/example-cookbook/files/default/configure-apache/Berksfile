@@ -1,0 +1,3 @@
+source "https://api.berkshelf.com"
+
+cookbook 'example-cookbook', path: '/Users/asattar/Dev/projects/docker-chef-rails-example/cookbooks/example-cookbook'
